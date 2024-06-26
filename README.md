@@ -1,30 +1,25 @@
 
 <h1 align="center">Hi 👋, I'm Jordi Milà</h1>
-<p align="center"> My name is Jordi Milà and I am passionate about technology and computer science.Since I started my university career in Computer Engineering at EPSEVG in 2018, I have been immersed in the world of programming and computing, learning and working with multiple programming languages ​​such as C++, C, Python, Java, among others.
-   🚀💻</p>
+<p align="center"> I am passionate about technology and excited to start working. I am an enthusiastic learner, always eager to explore new ideas and technologies. Working in a team is where i thrive, enjoying collaborative and collective problem-solving. I perform well under pressure, using it as a motivation to overcome challenges and come up with innovative solutions. 🚀💻</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=aleixpieres&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<img src="https://img.shields.io/badge/Languages-C++ | Python | C | HTML5 | CSS3 -green.svg" alt="supun nanayakkara's languages" />
-<img alt="Profile followers" src="https://img.shields.io/github/followers/aleixpieres">
+ <img src="https://komarev.com/ghpvc/?username=jm1lx&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<img src="https://img.shields.io/badge/Languages-C++ | Java | JavaScript | HTML5 | CSS3 -green.svg" alt="supun nanayakkara's languages" />
+<img alt="Profile followers" src="https://img.shields.io/github/followers/jm1lx">
 </p>
 &nbsp;
 
 <img align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9.svg">
 
-- 🔭 I’m currently working as **Google Cloud Networking TSR**
+- 🌱 I’m currently working in Personal projects with Java Springboot**
 
-- 🌱 I’m currently learning **Terraform & Kubernetes**
+- 👨‍💻 All of my projects are available [here](https://github.com/jm1lx?tab=repositories)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/aleixpieres?tab=repositories)
-
-- 📫 How to reach me **aleixpierescarrasco@gmail.com**
-
-- 🌐 Checkout [my personal portfolio](https://aleixpieres.com/)
+- 📫 How to reach me **milajordi97@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aleix-pieres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jmilamartos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -62,10 +57,9 @@
 
 <br/>
 
-    <summary>⚡ Stats</summary>
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=aleixpieres&&show_svgns=true)](https://github.com/aleixpieres)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=jm1lx&&show_svgns=true)](https://github.com/aleixpieres)
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleixpieres&layout=compact)](https://github.com/aleixpieres)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jm1lx&layout=compact)](https://github.com/jm1lx)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
