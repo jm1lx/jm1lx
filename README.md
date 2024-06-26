@@ -29,35 +29,33 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,html,css,kotlin," />
+    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,html,css,php,py" />
   </a>
 </p>
 
 - Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,django,gcp,unity" />
+    <img src="https://skillicons.dev/icons?i=docker,spring,react,laravel,bootstrap" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux,postman,idea" />
   </a>
 </p>
 
 - Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlserver" />
   </a>
 </p>
 
 <br/>
 
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=jm1lx&&show_svgns=true)](https://github.com/aleixpieres)
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jm1lx&layout=compact)](https://github.com/jm1lx)
 
